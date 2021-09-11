@@ -2,11 +2,11 @@ import tweepy
 import os
 import re
 
-API_KEY = 'BGXSbJ63ExpvFAzrFirMddeO2'
-API_SECCRET_KEY = '0ID07kP4R00RVafg154WVKK7FfroS6r5Q78PqSAnPYD40Kec1G'
-BearerTOKEN = 'AAAAAAAAAAAAAAAAAAAAAEDxSAEAAAAAkj2k94SlRd38%2BJQxs8QTwtGcyLk%3DEZ9En9QB04OP8po8DL569ygSMlbk3FcQpRt0F1KXZSXrVGCMdr'
-Access_Token = '1416046508630319104-RaXStfTVft09emeMc6EdQcmaIJpgvW'
-Access_Token_Secret = '6qCc1Cr4AzABi4Xg8mrt752lr0a2istFWtNecCBNPhGA6'
+API_KEY = ''
+API_SECCRET_KEY = ''
+BearerTOKEN = ''
+Access_Token = ''
+Access_Token_Secret = ''
 
 
 # OAuth process, using the keys and tokens
