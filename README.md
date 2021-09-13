@@ -7,10 +7,15 @@ See F1 Telemetry Process.pdf for the process chart.
 
 
 # Python Packages needed
-matplotlib
+matplotlib 
+
 numpy
+
 opencv-python
+
 pandas
+
 pytesseract
+
 tweepy
 
